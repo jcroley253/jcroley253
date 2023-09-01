@@ -12,7 +12,7 @@ I am a cloud advocate with a passion for automation and learning new technologie
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,gcp,go,cs,js" />
+    <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,gcp,go,cs,powershell,nodejs,js,py,selenium" />
   </a>
 </p>
 
