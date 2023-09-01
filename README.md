@@ -3,7 +3,7 @@
 ## **About Me**
 I am a cloud advocate with a passion for automation and learning new technologies. I have a strong track record of delivering exceptional work and exceeding goals. In my current role, I’ve incorporated cloud technologies into our systems, spearheaded the automation of mundane tasks and software deployments, and pushed innovation efforts throughout our department.
 
-## **Connet with me**
+<h3 align="left">Connet with me</h3>
 - <a href="https://www.linkedin.com/in/john-croley-73252b6a/">LinkedIn</a> 
 <a href="https://linkedin.com/in/jcroley253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcroley253" height="30" width="40" /></a>
 
